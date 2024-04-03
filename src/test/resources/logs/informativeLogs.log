@@ -1,0 +1,5 @@
+13:47:52.921 INFO  AUTOMATION - Navegando a la pagina
+13:47:56.151 INFO  AUTOMATION - Escribiendo en el username
+13:47:56.229 INFO  AUTOMATION - Escribiendo en el password
+13:47:56.282 INFO  AUTOMATION - Clickeando Login button
+13:47:56.368 INFO  AUTOMATION - Verificando la UI de shoppping

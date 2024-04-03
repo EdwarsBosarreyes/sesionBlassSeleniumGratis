@@ -1,0 +1,10 @@
+13:47:50.583 DEBUG AUTOMATION - Inicializando el driver
+13:47:52.780 DEBUG AUTOMATION - Maximizando la pantalla
+13:47:52.909 DEBUG AUTOMATION - Borrando las cookies
+13:47:52.915 DEBUG AUTOMATION - Aplicando implicit wait
+13:47:52.921 INFO  AUTOMATION - Navegando a la pagina
+13:47:56.151 INFO  AUTOMATION - Escribiendo en el username
+13:47:56.229 INFO  AUTOMATION - Escribiendo en el password
+13:47:56.282 INFO  AUTOMATION - Clickeando Login button
+13:47:56.368 INFO  AUTOMATION - Verificando la UI de shoppping
+13:47:56.481 DEBUG AUTOMATION - Matando el driver
